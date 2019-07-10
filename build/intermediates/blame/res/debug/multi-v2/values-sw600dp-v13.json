@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/alma/git/xyz-reader-starter-code-master/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/alma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8e97dd3da757771b72b961e3a9da9eb3/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "/home/alma/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/bef16128870897b166e29b2d82403c49/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,17,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,671,741,812,884,942,1000,1106,1811,1874",
+                        "endLines": "10,11,12,13,14,15,16,17,29,33",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "666,736,807,879,937,995,1101,1165,1869,2051"
+                    }
+                },
+                {
+                    "source": "/home/alma/git/xyz-reader-starter-code-master/XYZReader/src/main/res/values-sw600dp/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "19,26,27,28",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1227,1620,1674,1716",
+                        "endColumns": "52,53,41,94",
+                        "endOffsets": "1275,1669,1711,1806"
+                    }
+                },
+                {
+                    "source": "/home/alma/git/xyz-reader-starter-code-master/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "from": {
+                        "startLines": "-1,8,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,4,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,382,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,50,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,428,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "18,20,21,22,23,24,25",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1170,1280,1331,1386,1443,1509,1568",
+                        "endColumns": "56,50,54,56,65,58,51",
+                        "endOffsets": "1222,1326,1381,1438,1504,1563,1615"
+                    }
+                }
+            ]
+        }
+    ]
+}
